@@ -11,7 +11,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Random News Feed</h1>
+      <h1>Latest Tech News Feed 2024</h1>
       <div className="feed">
         {stories.map((story, index) => (
           <div key={index} className="story">
